@@ -37,4 +37,6 @@ firstPRMergeComment: >
 
 Hello, You are Welcome!
 
+Thanks for adding an issue, if you are reporting a bug or a feature request, please make sure to assign a label to this issue.
+
 This Bot well be helpful for you.
